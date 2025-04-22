@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vedik3672.github.io/EMIwizard/sitemap.xml
