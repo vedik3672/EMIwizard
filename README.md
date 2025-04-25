@@ -1,5 +1,10 @@
 <header>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://https://vedik3672.github.io/EMIwizard/foo.html</loc>
+<lastmod>2022-06-04</lastmod>
+</url>
+</urlset>
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
